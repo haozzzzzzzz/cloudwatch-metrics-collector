@@ -1,2 +1,2 @@
-# cloudwatch-prometheus-collector
-cloud watch prometheus collector
+# cloudwatch-metrics-collector
+cloud watch metrics collector
